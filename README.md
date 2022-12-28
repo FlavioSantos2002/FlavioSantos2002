@@ -1,4 +1,4 @@
-## Olá, meu nome é Flávio Santos e seja bem vindo ao meu github
+## Olá, meu nome é Flávio Santos, bem vindo ao meu github
 
 
 - 🤖 Formação Técnica em Eletônica
