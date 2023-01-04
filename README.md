@@ -2,7 +2,7 @@
 
 
 - 🤖 Formação Técnica em Eletônica
-- 📜 Estou cursando Engenharia de Software
+- 📜 Cursando Engenharia de Software
 
 <div align = "center">
   <a href="https://github.com/FlavioSantos2002">
