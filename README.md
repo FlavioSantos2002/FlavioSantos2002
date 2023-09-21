@@ -1,7 +1,7 @@
 ## Olá, meu nome é Flávio Santos, bem vindo ao meu github
 
 
-- 🤖 Formação Técnica em Eletônica
+- 🤖 Formação Técnica em Eletônica 
 - 📜 Cursando Engenharia de Software
 
 <div align = "center">
