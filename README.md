@@ -1,13 +1,19 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0969da,100:00b4d8&height=180&section=header&text=Flávio%20Santos&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineering%20%7C%20Backend%20%7C%20Technology&descAlignY=55&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0969da,100:00b4d8&height=190&section=header&text=Flávio%20Santos&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Cybersecurity%20%7C%20Backend&descAlignY=57&descSize=19"/>
 
-<img src="https://readme-typing-svg.herokuapp.com/?color=00B4D8&size=24&center=true&vCenter=true&width=700&lines=Olá!+Eu+sou+o+Flávio+Santos+👋;Estudante+de+Engenharia+de+Software+🎓;Técnico+em+Eletrônica+🔧;Desenvolvedor+e+entusiasta+de+tecnologia+💻;Sempre+aprendendo+e+construindo+novas+ideias+🚀" />
+<img
+  src="https://readme-typing-svg.herokuapp.com/?color=00B4D8&size=23&center=true&vCenter=true&width=850&lines=Olá!+Eu+sou+o+Flávio+Santos+👋;Engenheiro+de+Software+💻;Pós-graduando+em+Cibersegurança+na+UFAM+🔐;Backend+%7C+IoT+%7C+Sistemas+Distribuídos+⚙️;Tecnologia,+segurança+e+engenharia+🚀"
+/>
 
-<br>
+<br><br>
 
 <a href="https://github.com/FlavioSantos2002">
   <img src="https://komarev.com/ghpvc/?username=FlavioSantos2002&color=00b4d8&style=for-the-badge&label=VISITAS+AO+PERFIL"/>
+</a>
+
+<a href="https://github.com/FlavioSantos2002?tab=followers">
+  <img src="https://img.shields.io/github/followers/FlavioSantos2002?style=for-the-badge&logo=github&color=0969da&labelColor=0d1117"/>
 </a>
 
 </div>
@@ -19,32 +25,47 @@
 ```java
 public class FlavioSantos {
 
-    String education = "Engenharia de Software";
+    String degree = "Engenharia de Software";
+
+    String postgraduate = "Cibersegurança";
+
+    String university = "Universidade Federal do Amazonas - UFAM";
+
     String technicalBackground = "Técnico em Eletrônica";
 
     String[] interests = {
-        "Desenvolvimento de Software",
-        "Backend",
-        "IoT",
+        "Cybersecurity",
+        "Backend Development",
         "Sistemas Distribuídos",
+        "IoT",
+        "Integração de Sistemas",
         "Automação",
         "Inteligência Artificial",
-        "Tecnologia"
+        "Software Engineering"
     };
 
-    String mindset = "Aprender, construir, testar e evoluir 🚀";
+    String mindset =
+        "Aprender, construir, testar, proteger e evoluir 🚀";
 }
 ```
 
-Sou estudante de **Engenharia de Software** e Técnico em **Eletrônica**, apaixonado por entender como software e hardware podem trabalhar juntos para resolver problemas reais.
+Sou **Engenheiro de Software**, Técnico em **Eletrônica** e atualmente curso
+**Pós-Graduação em Cibersegurança na Universidade Federal do Amazonas (UFAM)**.
 
-Tenho interesse especial em desenvolvimento de software, sistemas backend, integração de sistemas, IoT e novas tecnologias.
+Tenho interesse em **desenvolvimento backend, sistemas distribuídos, IoT,
+integração de sistemas, automação, segurança da informação e arquitetura de software**.
 
-Estou sempre buscando novos desafios, experimentando ferramentas e transformando ideias em projetos.
+Minha formação em software, combinada à base técnica em eletrônica, me permite
+explorar projetos que envolvem desde a comunicação com dispositivos e hardware
+até serviços backend, infraestrutura e sistemas distribuídos.
+
+Atualmente também venho aprofundando meus conhecimentos em **Cibersegurança**,
+com foco em segurança de aplicações, redes, análise de vulnerabilidades,
+segurança de sistemas e práticas de desenvolvimento seguro.
 
 ---
 
-## 🚀 Tecnologias & Ferramentas
+# 🚀 Tecnologias & Ferramentas
 
 <div align="center">
 
@@ -52,32 +73,90 @@ Estou sempre buscando novos desafios, experimentando ferramentas e transformando
 
 <img src="https://skillicons.dev/icons?i=java,kotlin,c,python,js,ts&theme=dark" />
 
+<br>
+
 ### ⚙️ Backend & Desenvolvimento
 
 <img src="https://skillicons.dev/icons?i=spring,fastapi,nodejs,maven,gradle&theme=dark" />
 
-### 🗄️ Banco de Dados & Infraestrutura
+<br>
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,redis,docker&theme=dark" />
+### 🗄️ Banco de Dados & Mensageria
 
-### 🛠️ Ferramentas
+<img src="https://skillicons.dev/icons?i=postgres,mysql,redis&theme=dark" />
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,pycharm,linux,powershell&theme=dark" />
+<br>
+
+### 🐳 DevOps & Infraestrutura
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,linux,powershell&theme=dark" />
+
+<br>
+
+### 🛠️ IDEs & Ferramentas
+
+<img src="https://skillicons.dev/icons?i=vscode,idea,pycharm&theme=dark" />
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+# 🛡️ Cybersecurity
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Cybersecurity-0D1117?style=for-the-badge&logo=hackthebox&logoColor=9FEF00"/>
+<img src="https://img.shields.io/badge/Kali_Linux-0D1117?style=for-the-badge&logo=kalilinux&logoColor=557C94"/>
+<img src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624"/>
+<img src="https://img.shields.io/badge/OWASP-0D1117?style=for-the-badge&logo=owasp&logoColor=white"/>
+
+</div>
+
+<br>
+
+Áreas que venho aprofundando durante minha especialização:
+
+- 🔐 Segurança de aplicações
+- 🌐 Segurança de redes
+- 🕵️ Análise de vulnerabilidades
+- 🛡️ Desenvolvimento seguro
+- 🔎 Computação e análise forense
+- 🐧 Segurança em ambientes Linux
+- ⚔️ Fundamentos de segurança ofensiva e defensiva
+
+---
+
+# 🎯 Atualmente
+
+- 🎓 **Engenheiro de Software**
+- 🔐 Pós-graduando em **Cibersegurança pela Universidade Federal do Amazonas — UFAM**
+- 💻 Aprofundando conhecimentos em **desenvolvimento backend**
+- 🐍 Desenvolvendo soluções utilizando **Python**
+- ☕ Trabalhando com tecnologias do ecossistema **Java**
+- 🌐 Explorando **sistemas distribuídos e integração de sistemas**
+- 🐳 Utilizando **Docker e ambientes containerizados**
+- 📡 Trabalhando com conceitos envolvendo **IoT e integração software/hardware**
+- 🛡️ Aprofundando conhecimentos em **segurança de aplicações e infraestrutura**
+- 🤖 Explorando aplicações de **Inteligência Artificial na Engenharia de Software**
+
+---
+
+# 📊 GitHub Analytics
 
 <div align="center">
 
 <a href="https://github.com/FlavioSantos2002">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FlavioSantos2002&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=FlavioSantos2002&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"
+  />
 </a>
 
 <a href="https://github.com/FlavioSantos2002">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlavioSantos2002&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&hide=html,css"/>
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlavioSantos2002&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&hide=html,css"
+  />
 </a>
 
 </div>
@@ -86,47 +165,95 @@ Estou sempre buscando novos desafios, experimentando ferramentas e transformando
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=FlavioSantos2002&theme=tokyonight&hide_border=true&background=0D1117" />
+<img
+  src="https://streak-stats.demolab.com?user=FlavioSantos2002&theme=tokyonight&hide_border=true&background=0D1117"
+/>
 
 </div>
 
 ---
 
-## 📈 Atividade no GitHub
+# 📈 Atividade no GitHub
 
 <div align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=FlavioSantos2002&theme=tokyo-night&hide_border=true&area=true" />
+<img
+  width="95%"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=FlavioSantos2002&theme=tokyo-night&hide_border=true&area=true"
+/>
 
 </div>
 
 ---
 
-## 🐍 Minhas contribuições
+# 🐍 Minhas contribuições
 
 <div align="center">
 
-![Snake animation](https://github.com/FlavioSantos2002/FlavioSantos2002/blob/output/github-contribution-grid-snake-dark.svg)
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/FlavioSantos2002/FlavioSantos2002/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/FlavioSantos2002/FlavioSantos2002/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution snake"
+    src="https://raw.githubusercontent.com/FlavioSantos2002/FlavioSantos2002/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 </div>
 
 ---
 
-## 🎯 Atualmente
+# 💡 Áreas de interesse
 
-* 🎓 Cursando **Engenharia de Software**
-* 💻 Aprimorando conhecimentos em **desenvolvimento backend**
-* 🐍 Trabalhando e estudando **Python**
-* ☕ Desenvolvendo aplicações com **Java**
-* 🌐 Explorando **arquiteturas distribuídas e integração de sistemas**
-* 🐳 Utilizando **Docker e ambientes containerizados**
-* 📡 Interessado na integração entre **software, hardware e IoT**
-* 🤖 Explorando aplicações de **Inteligência Artificial no desenvolvimento de software**
-* 📚 Sempre estudando novas tecnologias e boas práticas
+<div align="center">
+
+<img src="https://img.shields.io/badge/Backend-0D1117?style=for-the-badge&logo=spring&logoColor=6DB33F"/>
+<img src="https://img.shields.io/badge/Cybersecurity-0D1117?style=for-the-badge&logo=hackthebox&logoColor=9FEF00"/>
+<img src="https://img.shields.io/badge/IoT-0D1117?style=for-the-badge&logo=arduino&logoColor=00979D"/>
+<img src="https://img.shields.io/badge/Distributed_Systems-0D1117?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+<img src="https://img.shields.io/badge/Software_Architecture-0D1117?style=for-the-badge&logo=diagramsdotnet&logoColor=F08705"/>
+<img src="https://img.shields.io/badge/Artificial_Intelligence-0D1117?style=for-the-badge&logo=openai&logoColor=white"/>
+
+</div>
 
 ---
 
-## 🌎 Onde me encontrar
+# 🧠 Engenharia + Segurança
+
+<div align="center">
+
+```text
+                 SOFTWARE ENGINEERING
+                         │
+             ┌───────────┴───────────┐
+             │                       │
+          BACKEND               CYBERSECURITY
+             │                       │
+     ┌───────┴────────┐       ┌──────┴──────┐
+     │                │       │             │
+ Distributed        APIs    AppSec       Networks
+   Systems            │       │             │
+     │                │       └──────┬──────┘
+     └────────┬───────┘              │
+              │                      │
+              └──────────┬───────────┘
+                         │
+                   SECURE SYSTEMS
+                         │
+                   🚀 BUILD & PROTECT
+```
+
+</div>
+
+---
+
+# 📫 Entre em contato
 
 <div align="center">
 
@@ -134,7 +261,7 @@ Estou sempre buscando novos desafios, experimentando ferramentas e transformando
   <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
 </a>
 
-<a href="https://www.linkedin.com/in/flávio-souza-237587220" target="_blank">
+<a href="https://www.linkedin.com/in/flávio-souza-237587220">
   <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
 </a>
 
@@ -148,19 +275,19 @@ Estou sempre buscando novos desafios, experimentando ferramentas e transformando
 
 <div align="center">
 
-### 💭
+### 🚀 Engenharia, segurança e tecnologia.
 
-> **"A melhor forma de prever o futuro é construí-lo."**
+Construindo software, explorando sistemas e aprofundando conhecimentos em segurança.
 
 <br>
+
+<img
+  src="https://readme-typing-svg.herokuapp.com/?color=00B4D8&size=18&center=true&vCenter=true&width=700&lines=Obrigado+pela+visita!+😄;Explore+meus+projetos+e+repositórios+🚀;Software+Engineering+%2B+Cybersecurity+🔐;Sempre+aprendendo.+Sempre+evoluindo.+💻"
+/>
+
+<br><br>
 
 ⭐ **Obrigado por visitar meu perfil!**
-
-Sempre em busca de **novos desafios, conhecimento e inovação.** 🚀
-
-<br>
-
-<img src="https://readme-typing-svg.herokuapp.com/?color=00B4D8&size=18&center=true&vCenter=true&width=650&lines=Obrigado+pela+visita!+😄;Sinta-se+à+vontade+para+explorar+meus+repositórios+🚀;Vamos+construir+algo+incrível!+💻" />
 
 </div>
 
